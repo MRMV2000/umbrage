@@ -231,7 +231,10 @@ function create_config( )
     "supergroup",
     "language",
     "whitelist",
-    "tools"
+    "tools",
+    "pyamresan",
+    "typing",
+    "leav"
     },
     vip_users = {}, --vip users
     sudo_users = {223277150,280802757,0,tonumber(our_id)},--Sudo users
